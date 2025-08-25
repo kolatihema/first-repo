@@ -1,0 +1,3 @@
+Name: k.Satya
+Course: BSC(Data Science)
+Thing: I learned to create a repository
